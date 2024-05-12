@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/FlappyMenu.unity
+    path: Assets/Scenes/FlappyMenu.unity
     guid: d76c92a727dabb8409577827d0dab0f5
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
