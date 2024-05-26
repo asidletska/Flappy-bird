@@ -73,3 +73,6 @@ crashlytics-build.properties
 ProjectSettings/ProjectVersion.txt
 Packages/manifest.json
 Packages/packages-lock.json
+WebGL Builds/Build/ProjectVersion.txt
+WebGL Builds/Build/dependencies.txt
+WebGL Builds/Build/GUID.txt
